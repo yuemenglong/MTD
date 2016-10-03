@@ -1,0 +1,40 @@
+{
+  "name": "mtd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuemenglong/mtd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuemenglong/mtd/issues"
+  },
+  "homepage": "https://github.com/yuemenglong/mtd#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "lodash": "^4.16.2",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.16.0",
+    "browserify": "^13.1.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-add-src": "^0.2.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-jade-jsx": "^1.0.10",
+    "gulp-less": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "merge-stream": "^1.0.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "yy-build": "^1.0.3"
+  }
+}
